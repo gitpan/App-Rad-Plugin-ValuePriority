@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               App-Rad-Plugin-ValuePriority
-version:            0.01
+version:            0.02
 abstract:           A Plugin to make it easy to get value from all acessors.
 author:
     - Fernando Corea de Oliveira <fco@cpan.org>
